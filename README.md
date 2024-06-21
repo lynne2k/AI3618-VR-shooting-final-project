@@ -2,6 +2,8 @@
 
 This is the final project for the AI3618 Virtual Reality course.
 
+![Demo](Demo.gif)
+
 ## Overview
 This project is a VR shooting range game inspired by the Resident Evil 4 remastered edition. It uses Unity and integrates Joycon for an immersive VR experience. The game features realistic gun handling, interactive targets, and a scoring system. You can watch our demo video on Bilibili: [https://www.bilibili.com/video/BV1eCg1eqE8E/?spm_id_from=333.999.0.0&vd_source=c45f62c7b45d132c96cc1bf9cf10fa87](https://www.bilibili.com/video/BV1eCg1eqE8E/?spm_id_from=333.999.0.0&vd_source=c45f62c7b45d132c96cc1bf9cf10fa87).
 
@@ -47,4 +49,7 @@ This project is a VR shooting range game inspired by the Resident Evil 4 remaste
 1. Clone the repository.
    ```sh
    git clone https://github.com/your-repository-url
-2. Open the project in Unity and ensure you have the necessary VR setup and Joycon drivers installed.
+2. Open the project in Unity and ensure **your Joycon has already connected to your device before running**.
+
+## Acknowledgments
+**Special thanks to our teacher, assistant and seniors who paved the way for us :D**
